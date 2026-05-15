@@ -15,7 +15,7 @@ Contents
 Preprint
 
 The article is available on Zenodo:  
-[DOI will be added after publication]
+[[10.5281/zenodo.20213756](https://doi.org/10.5281/zenodo.20213756)]
 
 License
 
